@@ -18,7 +18,7 @@ const RazorswiftForYou = () => {
         >
           <Box>
             <Typography sx={{ fontSize: "24px" }}>
-              RazorSwift for you
+              RazorSwifts for you
             </Typography>
             <Typography
               sx={{
